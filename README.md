@@ -8,4 +8,5 @@
 <p> Cukup isi formulir dengan benar dan Anda siap untuk pergi. ;) </ p>
 
 <br>  
-<img src = "https://.github.io/assets/images/ajaiblogin.png"> </ img>
+
+<img src = "https://ratansingh98.github.io/assets/images/Hack-IT.png"> </ img>
