@@ -1,4 +1,4 @@
-# <h1 align = "center"> Hack-iT </ h1>
+# <h1 align = "center"> AjaibLogin </ h1>
 <h3> Persyaratan </ h3>
 <ul type = "square">
   <li> Instal PyQt5 menggunakan <b> pip instal PyQT5 </ b> </ li>
@@ -8,4 +8,4 @@
 <p> Cukup isi formulir dengan benar dan Anda siap untuk pergi. ;) </ p>
 
 <br>  
-<img src = "https://ratansingh98.github.io/assets/images/Hack-IT.png"> </ img>
+<img src = "https://.github.io/assets/images/ajaiblogin.png"> </ img>
